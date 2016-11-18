@@ -1,0 +1,58 @@
+.body {
+	background-color:#efeaf6;
+	margin:50px 100px 10px 100px;
+}
+.container {
+	background-color:#decbfc;
+}
+.row {
+	background-color:#e3dcee;
+	margin:20px;
+	padding:10px;
+}
+a:hover {
+	color:purple;
+}
+a:visited {
+	color:lightgrey;
+}
+.img-circle {
+	width:450px;height:300px;
+}
+.questions {
+	font-family:times;
+}
+.item {
+	height:400px;
+}
+.carousel-inner {
+	width:640px;
+    height:360px;
+}
+.one {
+	padding:5%;
+
+}
+.two {
+	background-color:#efeaf6;
+	padding:7%;
+}.three {
+	background-color:#efeaf6;
+	padding:7%;
+	margin:10px;
+}
+.four {
+	background-color:#efeaf6;
+	padding:7%;
+}
+.bg {
+	height:200px;
+}
+.name {
+	font-family:fantasy;
+	font-size:60px;
+
+}
+.head {
+	height:30px;
+}

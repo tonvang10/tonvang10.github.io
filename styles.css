@@ -1,0 +1,48 @@
+body {
+	background-color:lightgrey;
+}
+a:hover {
+	color:green;
+}
+a:visited {
+	color:green;
+}
+a {
+	text-decoration:none;
+	color:black;
+	margin:40px;
+}
+#nav {
+	border-style:solid;
+	border-radius:20px;
+	border-width:3px;
+	margin:30px;	
+}
+.container {
+
+}
+.name {
+	font-size:25px;
+}
+table {
+	border-style:solid;
+	border-radius:15px;
+	float:left;
+}
+.me {
+	float:right;
+	display:inline;
+	margin-right:125px;
+	margin-top:-260px;
+}
+.list {
+	margin-left:150px;
+}
+.ipics {
+	float:right;
+	margin-top:-225px;
+	margin-right:150px;
+}
+.ipics img {
+	margin:20px;
+}

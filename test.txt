@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+=======
+
+words for example
+
+kookokooko
+
+again
+>>>>>>> 5df37bb9af2b44e42b4de8867f7c6a8dac84a7be
